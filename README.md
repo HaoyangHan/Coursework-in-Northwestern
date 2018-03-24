@@ -1,8 +1,7 @@
-# Coursework-in-Northwestern
+# Coursework_in_Northwestern
 
 ## 0. Introduction.
-This is all coursework, projects and after-class codes I wrote as a proof of personal ability in data analysis. All codes are wrote in python, R or Java.
-For more information, please contact me at haoyanghan2017@u.northwestern.edu or [LinkedIn profile](https://www.linkedin.com/in/haoyanghan/).
+This is all coursework, projects and self-study codes I wrote as a proof of personal ability in data analysis. All codes are wrote in python, R or Java.
 
 ----
 
@@ -16,3 +15,22 @@ Mainly there are following courseworks:
 4. [Machine Learning Foundation, Application and Algorithms](http://www.mccormick.northwestern.edu/eecs/courses/descriptions/395-495-35.html).
 5. [Deep Reinforcement Learning from scratch](http://www.mccormick.northwestern.edu/eecs/courses/descriptions/395-495-37.html).
 
+----
+
+## 2. Projects
+
+- Natural Language Processing Project from [Udacity](https://classroom.udacity.com/nanodegrees/nd892-cn-1/syllabus/core-curriculum)
+- Titanic Classification Project from [Kaggle](https://www.kaggle.com/c/titanic)
+- Predictive Analytics Project in [Predictive Analytics Class]()
+
+----
+
+## 3. Self_study codes
+
+Here are several self_study courses and I'll show the recourses of them below:
+
+
+
+---
+
+For more information, please contact me at haoyanghan2017@u.northwestern.edu or [LinkedIn profile](https://www.linkedin.com/in/haoyanghan/).
