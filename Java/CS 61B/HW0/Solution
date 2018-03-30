@@ -1,0 +1,22 @@
+Creative Exercise 1a: Drawing a Triangle
+
+Your goal is to create a program that prints the following figure. Your code should use loops (i.e. shouldn’t just be five print statements, that’s no fun).
+
+
+public class Triangle {
+   /* This is the program for build a triangle. */
+   public static void main(String[] args) {
+       int col = 0;
+       int row = 0;
+       while(row <= 5){
+          col = 0;
+          while(col < row){
+             System.out.print("*");
+             col++;
+          }
+          if(row == col)
+             System.out.println("*");
+          row++;
+       }
+   }
+}
